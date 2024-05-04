@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Better Health 😁</string>
+    <string name="welcome_text_One">
+        <h4>Welcome to</h4>
+    </string>
+    <string name="welcome_text_Two">
+        your Healthcare Companion!
+    </string>
+    <string name="welcome_text_Three.1">
+        🗓️  Schedule appointments
+    </string>
+    <string name="welcome_text_Three.2">
+        💠   Access info
+    </string>
+    <string name="welcome_text_Three.3">
+        🩹   Stay healthy effortlessly
+    </string>
+    <string name="welcome_text_Three.4">
+        🐣   Your health, simplified
+    </string>
+    <string name="welcomeB_text">
+        Welcome Back !!!
+    </string>
+    <string name="Sign_In_Btn">
+        Sign In
+    </string>
+    <string name="Sign_Up_Btn">
+        Sign Up
+    </string>
+    <string name="Sign_Out_Btn">
+        Sign Out
+    </string>
+
+    <string name="Sign_Up_Next_Btn">
+        Next
+    </string>
+    <string name="Sign_Up_DOB_btn">
+        Date of Birth
+    </string>
+    <string name="User_Type_Pick">
+        Choose your role 💠,
+    </string>
+    <string name="User_Type_Pick_Instr">
+        This is where you pick \nYour role with us.
+    </string>
+
+
+    <string name="Admin_Str">
+        Admin
+    </string>
+    <string name="Student_Str">
+        Student
+    </string>
+    <string name="Doctor_Str">
+        Doctor
+    </string>
+    <string name="Paramedic_Str">
+        Paramedic
+    </string>
+
+    <string name="Sign_up_Common_Welcome">
+        Welcome New User
+    </string>
+
+    <string name="Dashboard_EditProfile">
+        Edit Profile
+    </string>
+    <string name="Dashboard_Notification">
+        🔔
+    </string>
+    <string name="Dashboard_hi">
+        Hi 👋
+    </string>
+    <string name="Student_Dashboard_NameCall">
+        Nkululeko  Sibeko
+    </string>
+
+
+    <string name="STD_Appointment">
+        Schedule Appointment
+    </string>
+    <string name="STD_Symptoms">
+        Symptoms Checker
+    </string>
+    <string name="STD_Articles">
+        Articles and FAQs
+    </string>
+    <string name="STD_Emergency">
+        Emergency
+    </string>
+    <string name="STD_HealthTips">
+        Health Tips
+    </string>
+    <string name="STD_Chat">
+        Chat
+    </string>
+
+    <string-array name="time_slots">
+        <item>09:00</item>
+        <item>09:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:30</item>
+        <item>12:00</item>
+        <item>12:30</item>
+        <item>13:00</item>
+        <item>13:30</item>
+    </string-array>
+
+</resources>

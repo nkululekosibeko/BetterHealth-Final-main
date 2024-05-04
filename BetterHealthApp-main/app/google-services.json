@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575624099927",
+    "project_id": "better-health-app-4d3e5",
+    "storage_bucket": "better-health-app-4d3e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575624099927:android:88f33bd88125b826258b12",
+        "android_client_info": {
+          "package_name": "com.example.betterhealthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEkKt5YfhGvPhk3zHhC1fKyWlMWSLvU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
